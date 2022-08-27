@@ -1,1 +1,1 @@
-# Loan-Status-prediction
+# Loan-Status-prediction for defaulters and non-defaulters
